@@ -1,6 +1,6 @@
 # Stroke Prediction
 
-### This project has the objective of creating a machine learning model capable of predicting whether a patient is likely to get a stroke, based on input parameters as gender, age, hypertension, and smoking status.
+### This project aims to create a machine learning model capable of predicting whether a patient is likely to get a stroke, based on input parameters as gender, age, hypertension, and smoking status.
 
 #### This project was developed by Lucas Ezequiel.
 
