@@ -1,8 +1,8 @@
-# stroke_prediction
+# Stroke Prediction
 
-## This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.
+### This project has the objective of creating a machine learning model capable of predicting whether a patient is likely to get a stroke, based on input parameters as gender, age, hypertension, and smoking status.
 
-#### This project was made by Lucas Ezequiel.
+#### This project was developed by Lucas Ezequiel.
 
 # 1. Business Problem.
 
@@ -48,7 +48,7 @@ My strategy to solve this challenge was:
 
 # 5. Machine Learning Model Applied
 
-# 6. Machine Learning Modelo Performance
+# 6. Machine Learning Model Performance
 
 # 7. Business Results
 
